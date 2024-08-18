@@ -1,4 +1,4 @@
-# Hello! I'm [Your Name] 👋
+# Hello! I'm Abhishek Nakchwal 👋
 
 ## 👨‍💻 About Me
 I'm currently pursuing a B.Tech in Computer Science Engineering. I have a keen interest in Java, Data Structures & Algorithms (DSA), and frontend development.
