@@ -47,7 +47,7 @@
 
 ---
 
-## 🐍 Contribution Snake (NEXT LEVEL 🔥)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nakchwalabhi/nakchwalabhi/output/github-contribution-grid-snake.svg" />
@@ -55,19 +55,11 @@
 
 ---
 
-## 🚀 Featured Projects
-
-* 🔗 URL Shortener (Spring Boot + PostgreSQL)
-* 🍔 Food Expiry Tracker
-* 🚗 Public Vehicle Tracking System
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/nakchwal"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:abhisheknakchwal@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ---
