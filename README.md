@@ -43,8 +43,7 @@
 ## 🧠 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakchwalabhi&layout=compact&theme=tokyonight&v=1" />
-</p>
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nakchwalabhi&layout=compact&theme=tokyonight" /></p>
 
 ---
 
