@@ -11,7 +11,6 @@
 * 🎓 B.Tech CSE Student (Final Year)
 * 💻 Backend Developer (Java + Spring Boot)
 * 🌱 Currently learning **React & Advanced Backend**
-* ⚡ Focused on placements & real-world projects
 
 ---
 
