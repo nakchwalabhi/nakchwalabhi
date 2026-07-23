@@ -9,8 +9,8 @@
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE Student (Final Year)
-* 💻 Backend Developer (Java + Spring Boot)
-* 🌱 Currently learning **React & Advanced Backend**
+* 💻 Full Stack Developer 
+
 
 ---
 
@@ -64,4 +64,3 @@
 
 ---
 
-<p align="center">🔥 "Consistency beats talent." 🔥</p>
